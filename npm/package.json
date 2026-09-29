@@ -1,0 +1,19 @@
+{
+  "name": "aulanpm",
+  "version": "1.0.0",
+  "description": "Aula sobre como funciona npm",
+  "license": "ISC",
+  "author": "Maria Paula",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.3.7",
+    "react": "^19.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
